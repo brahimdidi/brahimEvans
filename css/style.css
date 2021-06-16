@@ -1,0 +1,24 @@
+#img-div{
+text-align: center;
+padding: 2px 3px 0 0;
+
+}
+#title{
+text-align: center;
+font-size: 40px;
+ font-family: 'Dela Gothic One', cursive;
+}
+#tribute-info {
+text-align: center;
+font-size: 25px;
+color: white;
+background-color: black
+}
+#image{
+width: 100%;
+height: auto;
+max-width: 700px;
+margin-left: auto;
+margin-right: auto;
+display: block;
+}
